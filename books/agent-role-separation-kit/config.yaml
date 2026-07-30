@@ -2,7 +2,7 @@ title: "AIエージェント役割分離キット"
 summary: "1つのAIに、発想と評価と決定を全部やらせないための設計図。複数のAIエージェントを日常的に動かす構成を約2ヶ月運用して、うまくいったことと、盛大に失敗したことをそのままパッケージにした。"
 topics: ["AI", "LLM", "エージェント", "ClaudeCode", "個人開発"]
 published: true
-price: 1980
+price: 2000
 chapters:
   - 00-intro
   - 01-setup
